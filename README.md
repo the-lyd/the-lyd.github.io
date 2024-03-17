@@ -1,1 +1,16 @@
-# the-lyd.github.io
+# the-lyd is the most dangerous lid ever to exist 
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <center>
+     <title>the-lyd is the most dangerous lid ever to exist</title>
+      <h1>beware of the-lyd</h1>
+    </center>
+  </head>
+  <body>
+    <center>
+    <img scr="lid.png">
+    </center>  
+  </body>
+</html>
